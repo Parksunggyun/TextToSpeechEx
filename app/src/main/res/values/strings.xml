@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TextToSpeechEx</string>
+    <string name="title">뇌를 쉬게하자! 꿀잠자기</string>
+    <string name="sub_title">건강한 수면을 위한 10계명</string>
+    <string name="meant1">1.  잠드는 시간과 기상 시간을 규칙적으로 합니다.</string>
+    <string name="meant2">2.  잠자리에 누워서 책을 보거나 <b>TV</b>를 보지 마세요.</string>
+    <string name="meant3">3.  잠들지 않은 상태로 오래 누워있지 마세요.</string>
+    <string name="meant4">4.  <b>수면제</b>의 장기적인 사용을 피하세요.</string>
+    <string name="meant5">5.  과도한 <b>스트레스</b>와 <b>긴장</b>을 피합니다.</string>
+    <string name="meant6">6.  잠자기 전 과도한 음식섭취를 피하고 수면 중 갈증을 느끼지 않을 정도의 <b>수분섭취</b>를 합니다.</string>
+    <string name="meant7">7.  낮에 적당한 운동은 좋지만 <b>밤에 하는 운동</b>은 수면에 좋지 않습니다.</string>
+    <string name="meant8">8.  <b>낮잠</b>은 되도록 자지 않습니다.</string>
+    <string name="meant9">9.  <b>잠자리</b>는 최대한 <b>안락하게</b> 소음을 피하고 <b>어둡게</b> 합니다.</string>
+    <string name="meant10"><font color='red'><b>10. 카페인, 술, 담배는</b></font> 피합니다. 술은 일시적으로 졸음을 증가시킬 뿐 아침에 일찍 일어나게 합니다.</string>
+</resources>
